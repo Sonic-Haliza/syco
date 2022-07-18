@@ -5,7 +5,7 @@ Hay👋‹, ingin Donasi?
 
 💌 *Pembayaran*
 💳 Via: Pulsa Telkomsel
-📞 Nomor: 082211991425
+📞 Nomor: 082251324019
 👤 A/n: Brynzx
 📝 Mitra: Sycoryz BOT
 💰 Metode pembayaran: Online ( ~Cod~ )
