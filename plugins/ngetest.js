@@ -59,7 +59,7 @@ Runtime: ${uptime}`
          { messageId: template.key.id }
      )
 }
-handler.customPrefix = /^syco$/i // ketik bot (tanpa prefix)
+handler.customPrefix = /^fangz$/i // ketik bot (tanpa prefix)
 handler.command = new RegExp
 handler.owner = false
 handler.mods = false
