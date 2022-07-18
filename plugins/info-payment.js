@@ -10,7 +10,7 @@ const sections = [
 	rows: [
 	    {title: "💳Dana", rowId: '.dana', description: 'Bayar melalui Dana' },
 	{title: "💵 Pulsa Telkomsel", rowId: '.pulsasmartfren', description: 'Bayar melalui pulsa' },
-	{title: "💵 Pulsa Telkomsel", rowId: '.pulsastri', description: 'Bayar melalui pulsa' }
+	{title: "💵 Pulsa Telkomsel", rowId: '.pulsastri', description: 'Bayar melalui pulsa' },
 	]
     }, 
 
