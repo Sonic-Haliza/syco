@@ -4,19 +4,11 @@ let text = `${htki} PULSA ${htka}
 👋‘‹, ingin melanjutkan pembayaran?
 
 💌 *Pembayaran*
-💳 Via: Pulsa Tri3
-📞 Nomor: 0895394988123
-👤 A/n: Fangz
-📦 Mitra: Fangz BOT
+💳 Via: Pulsa Telkomsel
+📞 Nomor: 082251324019
+👤 A/n: Brynzx
 💰 Metode pembayaran: Online ( ~Cod~ )
 
-📣 *Beli*
-
-Apk TokoBot: https://app.bukaolshop.com/toko/tokobot
-
-Apk FangzApp:https://web.jagel.id/store/fangzapp
-
-Toko Website:https://toko.ly/TokoBot   (Non apk)
 
 ✏️ _Informasi Pembayaran_
 
