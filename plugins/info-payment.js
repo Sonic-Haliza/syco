@@ -2,7 +2,7 @@ let handler = async (m, { conn }) => {
 let info = `
 *${htki} PAYMENT ${htka}*
 
-©2022 FangzBot Official 
+©2022 Sycoryz
 `
 const sections = [
    {
@@ -10,10 +10,8 @@ const sections = [
 	rows: [
 	    {title: "💳Dana", rowId: '.dana', description: 'Bayar melalui Dana' },
 	    {title: "💳Gopay", rowId: '.gopay', description: 'Bayar melalui Gopay' },
-	{title: "💳Ovo", rowId: '.ovo', description: 'Bayar melalui Ovo' },
-	{title: "💳Motion Pay", rowId: '.motionpay', description: 'Bayar melalui Motion Pay' },
-	{title: "💵 Pulsa Smartfren", rowId: '.pulsasmartfren', description: 'Bayar melalui pulsa' },
-	{title: "💵 Pulsa Tri3", rowId: '.pulsastri', description: 'Bayar melalui pulsa' },
+	{title: "💵 Pulsa Telkomsel", rowId: '.pulsasmartfren', description: 'Bayar melalui pulsa' },
+	{title: "💵 Pulsa Telkomsel", rowId: '.pulsastri', description: 'Bayar melalui pulsa' },
 	]
     }, 
 
