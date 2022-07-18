@@ -9,9 +9,8 @@ const sections = [
 	title: `✃ sᴇᴡᴀ`,
 	rows: [
 	    {title: "💳Dana", rowId: '.dana', description: 'Bayar melalui Dana' },
-	    {title: "💳Gopay", rowId: '.gopay', description: 'Bayar melalui Gopay' },
 	{title: "💵 Pulsa Telkomsel", rowId: '.pulsasmartfren', description: 'Bayar melalui pulsa' },
-	{title: "💵 Pulsa Telkomsel", rowId: '.pulsastri', description: 'Bayar melalui pulsa' },
+	{title: "💵 Pulsa Telkomsel", rowId: '.pulsastri', description: 'Bayar melalui pulsa' }
 	]
     }, 
 
