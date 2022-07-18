@@ -45,7 +45,7 @@ Runtime: ${uptime}`
                {
              quickReplyButton: {
                displayText: 'Jangan Di Pencet',
-               id: 'fangz',
+               id: 'Sycoryz',
              }
 
            }]
@@ -59,7 +59,7 @@ Runtime: ${uptime}`
          { messageId: template.key.id }
      )
 }
-handler.customPrefix = /^fangz$/i // ketik bot (tanpa prefix)
+handler.customPrefix = /^syco$/i // ketik bot (tanpa prefix)
 handler.command = new RegExp
 handler.owner = false
 handler.mods = false
